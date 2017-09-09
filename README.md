@@ -1,3 +1,3 @@
 # prvi
 
-Ovo je moj prvi projekat git ubunut.
+Ovo je moj prvi projekat git ubuntu.
